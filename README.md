@@ -19,7 +19,7 @@ You can also install insomnia to help you test the routes.
 ## Usage
 
 - When I run npm start, the server listens on the specificed port. 
-- The API routes listen for incoming requests and sends back the responses to the client. 
+- The API routes listen for incoming requests and send back the responses to the client. 
 - I add the JSON data to the body that I want to create for the specified routes and then am able to modify or delete that information as well as retrieve it. 
 
 You can find an example of how it works here:
