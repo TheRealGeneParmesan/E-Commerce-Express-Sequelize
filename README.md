@@ -1,7 +1,7 @@
 # E-Commerce-Express-Sequelize
 Making an E-Commerce backend using express and sequelize
     
-    An e-commerce backend where I use node,express and sequzelize to create tables of data including categories, products, product tags, and tags and create API routes to post this data, get the data, update the data and delete the data.
+    An E-Commerce Backend using Node.js,Express and Sequzelize to create tables of data including categories, products, product tags, and tags and create API routes to post this data, get the data, update the data and delete the data.
     
 ## Table of Contents
 
@@ -15,6 +15,8 @@ Making an E-Commerce backend using express and sequelize
 
 You must install the sequelize and express packages in node. 
 You can also install insomnia to help you test the routes. 
+
+![image](https://github.com/TheRealGeneParmesan/E-Commerce-Express-Sequelize/assets/119083185/3255ba9e-c36e-4a43-90e0-e019ac86ac82)
 
 ## Usage
 
